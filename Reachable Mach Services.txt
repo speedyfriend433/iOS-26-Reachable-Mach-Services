@@ -51,8 +51,8 @@ com.apple.webinspector
 com.apple.midiserver
 com.apple.commcenter.cupolicy.xpc
 com.apple.commcenter.tmk.xpc
-com.apple.commcenter.xpc
 com.apple.commcenter.coretelephony.xpc
+com.apple.commcenter.xpc
 com.apple.networking.captivenetworksupport
 com.apple.SystemConfiguration.DNSConfiguration
 com.apple.SystemConfiguration.configd
@@ -217,8 +217,8 @@ com.apple.dt.automationmode.reader
 com.apple.PowerManagement.control
 com.apple.iokit.powerdxpc
 com.apple.MobileFileIntegrity
-com.apple.sharing.sharesheet
 com.apple.sharingd.nsxpc
+com.apple.sharing.sharesheet
 com.apple.coresymbolicationd
 com.apple.shazamd
 com.apple.powerlog.plxpclogger.xpc
@@ -266,8 +266,8 @@ com.apple.VoiceOverTouch.xpc
 com.apple.VoiceOverTouch
 com.apple.VoiceOverTouch.drag.xpc
 com.apple.AppSSO.service-xpc
-com.apple.CoreAuthentication.daemon
 com.apple.fontservicesd
+com.apple.CoreAuthentication.daemon
 com.apple.appleneuralengine
 com.apple.quicklook.ThumbnailsAgent
 com.apple.rti-screencontinuity
@@ -293,6 +293,7 @@ com.apple.attributionkitd.xpc
 com.apple.ScreenTimeAgent
 com.apple.apsd
 com.apple.certui.relay
+com.apple.developer.wifi-infrastructure.WiFiNetworkSharingExtension
 com.apple.private.corewifi.mobilewifi-xpc
 com.apple.itunesstored.xpc
 com.apple.iTunesStore.daemon.public
@@ -305,7 +306,6 @@ com.apple.appprotectiond.viewsubjectinfo
 com.apple.appprotectiond.extensioninfo
 com.apple.WebBookmarks.webbookmarksd
 com.apple.gpumemd.source
-com.apple.ThreadNetwork.xpc
 com.apple.frontboard.systemappservices
 PurpleSystemAppPort
 com.apple.UIKit.KeyboardManagement.hosted
